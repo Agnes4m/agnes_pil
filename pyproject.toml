@@ -1,0 +1,15 @@
+[project]
+name = "agnes_pil"
+version = "0.0.1"
+description = "个人使用的pil功能"
+authors = [
+    {name = "Agnes Digital", email = "Z735803792@163.com"},
+]
+dependencies = []
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
